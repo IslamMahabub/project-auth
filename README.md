@@ -1,12 +1,10 @@
-## Konna 
+##  Project Info
 Using this app we can login using default email and password
 You can also use a google account, Mobile OTP will be other options for login.
 
-I use Queue for huge no of email sending
+Use Queue for huge no of email sending
 
-Application has Role-based Access for authorization So we can create any kind of role with specific permission
-
-Users can access the system based on assign Role
+Application has Role-based Access for authorization So we can create any kind of role with specific permission.Users can access the system based on assign Role
 
 
 ## Installation 
